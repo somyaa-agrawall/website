@@ -12,6 +12,7 @@ hr{
 }
 .contact-me{
   margin: 100px auto;
+  width: 60%;
 }
 h1{
   margin: 50px auto 0;
@@ -143,6 +144,10 @@ a{
   justify-content: center;
   align-items: center;
   margin-top: 3rem;
+}
+.work-intro{
+  width: 60%;
+  margin: auto;
 }
 .set1{
   transition: 1s;
