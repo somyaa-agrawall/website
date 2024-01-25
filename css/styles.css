@@ -130,7 +130,7 @@ a{
 }
 .work-container{
   display: grid;
-  grid-template: 134px 200px 150px/repeat(3, 200px);
+  grid-template: 134px 200px 124px 200px/repeat(3, 200px);
   gap: 10px;
 }
 #grid{
